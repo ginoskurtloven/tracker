@@ -1,5 +1,18 @@
+/*Custom CSS for LoginForm*/
 .box {
 	background: white;
+	padding: 10px;
 	width: 300px;
 	margin: 0 auto 0 auto;
+	border-radius:6px;
+}
+.box h1 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+.box label {
+	font-family: 'Roboto', sans-serif;
+	padding: 8px;
+  	width:250px;
 }
